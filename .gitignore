@@ -1,1 +1,9 @@
 node_modules/
+<<<<<<< HEAD
+=======
+.DS_Store
+.yarnclean
+lib
+npm-debug.log
+bootold*
+>>>>>>> 47ef0722b4692d9ab5769568459d9b49c075afee
